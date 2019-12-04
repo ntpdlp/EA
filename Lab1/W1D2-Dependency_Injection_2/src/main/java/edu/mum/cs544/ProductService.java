@@ -1,12 +1,15 @@
 package edu.mum.cs544;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.util.*;
 
-@Component
+@Service
 public class ProductService implements IProductService {
 	private Collection<Product> productList = new ArrayList<Product>();
+	@Autowired
 	private IInventoryService inventoryService; //inject
 
 	public ProductService() {

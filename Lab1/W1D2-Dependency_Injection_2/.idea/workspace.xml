@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95f914ca-319b-4e1c-94a3-0e9fdae580ea" name="Default Changelist" comment="" />
+    <list default="true" id="95f914ca-319b-4e1c-94a3-0e9fdae580ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/Borders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyPractice/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyPractice/eahelloworld/eahelloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyPractice/testannotation/testannotation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/cs544/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/mum/cs544/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/mum/cs544/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/mum/cs544/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/mum/cs544/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/mum/cs544/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/mum/cs544/InventoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/mum/cs544/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/mum/cs544/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/Amazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/BarnesAndNoble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/BarnesAndNoble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/EBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../W1D2-Dependency_Injection_3/src/main/java/edu/mum/cs544/EBooks.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +38,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1U7XuDO9qRVM0MwPl1dQqjUMLDR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -71,11 +98,26 @@
       <workItem from="1574708829914" duration="2625000" />
       <workItem from="1574783426237" duration="1495000" />
       <workItem from="1574797860722" duration="11644000" />
+      <workItem from="1575273501295" duration="1372000" />
+      <workItem from="1575276264731" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

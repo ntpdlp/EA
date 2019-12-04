@@ -1,5 +1,9 @@
 package edu.mum.cs544;
 
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
+
+@Component
 public class EBooks implements IBookSupplier {
 	public double computePrice(String isbn) {
 		double price = Math.random() * 45;
